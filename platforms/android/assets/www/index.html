@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <title id="Description">An online shop, featuring jQWidgets.</title>
+    <link rel="Stylesheet" href="css/jqx.base.css" type="text/css" />
+    <link rel="Stylesheet" href="css/jqx.darkblue.css" type="text/css" />
+    <link rel="Stylesheet" href="css/style.css" type="text/css" />
+    <script type="text/javascript" src="phonegap.js"></script>
+    <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="js/jqxcore.js"></script>
+    <script type="text/javascript" src="js/jqxdata.js"></script>
+    <script type="text/javascript" src="js/jqxbuttons.js"></script>
+    <script type="text/javascript" src="js/jqxscrollbar.js"></script>
+    <script type="text/javascript" src="js/jqxmenu.js"></script>
+    <script type="text/javascript" src="js/jqxdatatable.js"></script>
+    <script type="text/javascript" src="js/jqxtabs.js"></script>
+    <script type="text/javascript" src="js/jqxwindow.js"></script>
+    <script type="text/javascript" src="js/jqxinput.js"></script>
+    <script type="text/javascript" src="js/jqxpasswordinput.js"></script>
+    <script type="text/javascript" src="js/jqxvalidator.js"></script>
+    <script type="text/javascript" src="js/jqxscrollview.js"></script>
+    <script type="text/javascript" src="js/functionality.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            initialize();
+        });
+    </script>
+</head>
+<body class='default'>
+    <table id="headerTable">
+    </table>
+    <div id="dataTable">
+    </div>
+    <div id="laptopDetailedView">
+        <img id="backArrow" title="Back" src="img/back_arrow.png" />
+        <table id="laptopDetails">
+        </table>
+    </div>
+    <div id="footer">
+        Copyright &copy; jQWidgets 2013</div>
+    <div id='loginDialog'>
+        <div id="loginDialog-header">
+            Login details</div>
+        <div>
+            <form id="form" action="./">
+            <table id="loginTable">
+                <tr>
+                    <td valign="middle">
+                        Username:
+                    </td>
+                    <td>
+                        <input id="usernameInput" type="text" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle">
+                        Password:
+                    </td>
+                    <td>
+                        <input id="passwordInput" type="password" />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input type="button" id="submit" value="Submit" />
+                    </td>
+                </tr>
+            </table>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

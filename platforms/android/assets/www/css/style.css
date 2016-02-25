@@ -1,0 +1,210 @@
+﻿body, #laptopScrollView .jqx-scrollview-button
+{
+    background-color: #8CB6FF;
+}
+#dataTable .jqx-widget-header, .buy, #laptopScrollView .jqx-scrollview-button-selected, #login, #itemsInCart, #featuresHeader, #footer
+{
+    background-color: #002570;
+}
+.jqx-widget-header, .buy, #login, #itemsInCart, #featuresHeader, #footer
+{
+    color: White;
+}
+.jqx-widget-content, .jqx-grid-cell, .laptopDetailsTable, .name, #laptopDetails td, #headerTable
+{
+    border: none;
+}
+.name, #login, #itemsInCart, #catalog, #featuresHeader, #footer
+{
+    font-family: "DaxlineProBold" , "Ubuntu" , "Lucida" , "Trebuchet MS" ,sans-serif;
+}
+.buyNow, #itemsInCart
+{
+    border-top-right-radius: 7px;
+}
+.name, .price
+{
+    color: #002570;
+}
+.promo, .detailsStar, #backArrow
+{
+    position: absolute;
+}
+.laptopDetailsTable, #laptopDetails
+{
+    background-color: White;
+}
+.laptopDetailsTable, .priceTable
+{
+    height: 100%;
+}
+.buyNow, #login
+{
+    border-bottom-left-radius: 7px;
+}
+.buyNow, #itemsInCart span, #featuresHeader
+{
+    font-size: 22px;
+}
+.laptopDetailsTable, .priceTable, #laptopDetails
+{
+    width: 100%;
+}
+#headerTable, #dataTable, #laptopDetailedView, #footer
+{
+    margin: 0 auto;
+}
+.laptopDetailsTable, #laptopScrollView, #featuresHeader
+{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+#login, #itemsInCart
+{
+    padding: 7px 10px;
+    white-space: nowrap;
+}
+#headerTable, #laptopScrollView
+{
+    background-color: transparent;
+}
+#itemsInCart img, #itemsInCart span
+{
+    float: left;
+}
+body
+{
+    background-image: url("../img/background-gradient.png");
+    background-repeat: repeat-x;
+}
+td, #footer
+{
+    text-align: center;
+}
+ul
+{
+    margin: 0;
+    padding-left: 15px;
+}
+.jqx-grid-cell
+{
+    white-space: normal;
+}
+.jqx-window-close-button
+{
+    background-image: url("images/close_white.png");
+}
+.promo
+{
+    top: 0;
+    right: 0;
+}
+.featureLabel
+{
+    letter-spacing: 1px;
+}
+.name, .price, td.featureLabel
+{
+    font-weight: bold;
+}
+.laptopDetailsTable
+{
+    table-layout: fixed;
+    display: block;
+}
+.leftTd
+{
+    width: 200px;
+}
+.priceTable, .leftTd, .rightTd, #logoTd
+{
+    text-align: left;
+    font-size: 15px;
+}
+.laptopName, .price, .leftTd, .rightTd, .info
+{
+    font-family: Arial,Helvetica,sans-serif;
+}
+.altRow
+{
+    background-color: #F7FAFF;
+}
+.buy
+{
+    border-color: #8CB6FF;
+}
+.name
+{
+    font-size: 25px;
+}
+.price
+{
+    font-size: 60px;
+}
+.buyNow
+{
+    width: 80%;
+    height: 50px;
+}
+.detailsStar
+{
+    top: 10px;
+}
+#headerTable
+{
+    height: 80px;
+}
+#logoTd
+{
+    width: 70%;
+}
+#dataTable
+{
+    border-radius: 5px 5px 0 0;
+}
+#catalog
+{
+    margin: 4px;
+    text-align: center;
+    font-size: 17px;
+}
+#featuresHeader
+{
+    padding: 10px 0;
+}
+#loginDialog, #laptopDetailedView
+{
+    display: none;
+}
+#laptopDetailedView
+{
+    position: relative;
+}
+#backArrow
+{
+    left: 10px;
+    top: 10px;
+    z-index: 1;
+}
+#submit
+{
+    width: 50%;
+}
+#footer
+{
+    padding: 5px 0 5px 0;
+    border-radius: 0 0 5px 5px;
+}
+#laptopDetails
+{
+    border-spacing: 0px;
+}
+#laptopDetails td
+{
+    padding: 10px;
+    border-bottom: 1px solid #EAF1FF;
+}
+#lastRow
+{
+    border-bottom: none;
+}

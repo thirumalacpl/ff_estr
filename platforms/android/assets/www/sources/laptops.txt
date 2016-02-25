@@ -1,0 +1,374 @@
+﻿[
+    {
+        "imgName": "Aspire_E1_531.jpg",
+        "ram": "4GB DDR3",
+        "cpu": "Intel Celeron 1005M",
+        "price": "449",
+        "display": "15.6",
+        "model": "Acer Aspire E1/531",
+        "video": "Intel HD Graphics",
+        "hdd": "1TB SATA",
+        "promo": false,
+        "connectivity": {
+            "LAN": "10/100/1000 Mbit/s",
+            "wifi": "802.11 b/g/n",
+            "bluetooth": ""
+        },
+        "interfaces": {
+            "USB3": "",
+            "USB2": "3",
+            "webcam": true,
+            "mic": true,
+            "audio": true,
+            "hdmi": true,
+            "vga": true,
+            "thunderbolt": false,
+            "miniDisplay": false,
+            "cardReader": true
+        },
+        "battery": "6 cell",
+        "weight": "2.45",
+        "OS": "Windows 8 64/bit"
+    },
+    {
+        "imgName": "MacBook_Air_11_6.jpg",
+        "ram": "4GB DDR3",
+        "cpu": "Intel Core i5/4200U",
+        "price": "1399",
+        "display": "11.6",
+        "model": "Apple MacBook Air",
+        "video": "Intel HD 5000 Graphics",
+        "hdd": "128GB SSD",
+        "promo": false,
+        "connectivity": {
+            "LAN": "",
+            "wifi": "IEEE 802.11n",
+            "bluetooth": 4
+        },
+        "interfaces": {
+            "USB3": "2",
+            "USB2": "",
+            "webcam": true,
+            "mic": true,
+            "audio": true,
+            "hdmi": false,
+            "vga": false,
+            "thunderbolt": true,
+            "miniDisplay": true,
+            "cardReader": false
+        },
+        "battery": "Lithium polymer 50Whr",
+        "weight": "1.06",
+        "OS": "Mac OS X Mountain Lion"
+    },
+    {
+        "imgName": "MacBook_Pro_13.jpg",
+        "ram": "4GB DDR3",
+        "cpu": "Intel Core i5/3210M",
+        "price": "1699",
+        "display": "13.3",
+        "model": "Apple MacBook Pro",
+        "video": "Intel HD 4000 Graphics",
+        "hdd": "500GB SATA",
+        "promo": true,
+        "connectivity": {
+            "LAN": "10/100/1000 BASE/T Gigabit Ethernet",
+            "wifi": "AirPort Extreme",
+            "bluetooth": "4"
+        },
+        "interfaces": {
+            "USB3": "2",
+            "USB2": "",
+            "webcam": true,
+            "mic": true,
+            "audio": false,
+            "hdmi": false,
+            "vga": false,
+            "thunderbolt": true,
+            "miniDisplay": true,
+            "cardReader": true
+        },
+        "battery": "Lithium polymer 63.5Whr",
+        "weight": "2.04",
+        "OS": "Mac OS X v10.7 Lion"
+    },
+    {
+        "imgName": "X55U.jpg",
+        "ram": "4GB DDR3",
+        "cpu": "AMD Dual/Core E2/1800",
+        "price": "449",
+        "display": "15.6",
+        "model": "Asus X55U SX047DU",
+        "video": "AMD Radeon HD 7340",
+        "hdd": "500GB SATA",
+        "promo": false,
+        "connectivity": {
+            "LAN": "10/100/1000 Mbit/s",
+            "wifi": "802.11 b/g/n",
+            "bluetooth": ""
+        },
+        "interfaces": {
+            "USB3": "1",
+            "USB2": "1",
+            "webcam": true,
+            "mic": true,
+            "audio": true,
+            "hdmi": true,
+            "vga": true,
+            "thunderbolt": false,
+            "miniDisplay": false,
+            "cardReader": true
+        },
+        "battery": "6 cell",
+        "weight": "2.45",
+        "OS": "Windows 8 64/bit"
+    },
+    {
+        "imgName": "K55.jpg",
+        "ram": "4GB DDR3",
+        "cpu": "Intel Core i7/3630QM",
+        "price": "999",
+        "display": "15.6",
+        "model": "Asus K55VD SX656H",
+        "video": "NVidia GeForce 610M",
+        "hdd": "750GB SATA",
+        "promo": false,
+        "connectivity": {
+            "LAN": "10/100/1000 Mbit/s",
+            "wifi": "802.11 b/g/n",
+            "bluetooth": "4.0"
+        },
+        "interfaces": {
+            "USB3": "2",
+            "USB2": "1",
+            "webcam": true,
+            "mic": true,
+            "audio": true,
+            "hdmi": true,
+            "vga": true,
+            "thunderbolt": false,
+            "miniDisplay": false,
+            "cardReader": true
+        },
+        "battery": "6 cell",
+        "weight": "2.52",
+        "OS": "Windows 8 64/bit"
+    },
+    {
+        "imgName": "Inspiron_3521.jpg",
+        "ram": "2GB DDR3",
+        "cpu": "Intel Celeron 1017U",
+        "price": "399",
+        "display": "15.6",
+        "model": "Dell Inspiron 3521",
+        "video": "Intel HD Graphics",
+        "hdd": "320GB SATA",
+        "promo": false,
+        "connectivity": {
+            "LAN": "10/100 Mbit/s",
+            "wifi": "802.11 b/g/n",
+            "bluetooth": "4.0"
+        },
+        "interfaces": {
+            "USB3": "2",
+            "USB2": "2",
+            "webcam": true,
+            "mic": true,
+            "audio": true,
+            "hdmi": true,
+            "vga": false,
+            "thunderbolt": false,
+            "miniDisplay": false,
+            "cardReader": true
+        },
+        "battery": "4 cell",
+        "weight": "2.4",
+        "OS": "Windows 8 64/bit"
+    },
+    {
+        "imgName": "fujitsu_lifebook_ah532FUJ_NOT_AH532_i3_RED.jpg",
+        "ram": "4GB DDR3",
+        "cpu": "Intel Core i3/2328M",
+        "price": "549",
+        "display": "15.6",
+        "model": "Fujitsu Lifebook AH532",
+        "video": "Intel HD Graphics 3000",
+        "hdd": "750GB SATA",
+        "promo": false,
+        "connectivity": {
+            "LAN": "10/100/1000 Mbit/s",
+            "wifi": "802.11 b/g/n",
+            "bluetooth": "4.0"
+        },
+        "interfaces": {
+            "USB3": "3",
+            "USB2": "1",
+            "webcam": true,
+            "mic": true,
+            "audio": true,
+            "hdmi": true,
+            "vga": true,
+            "thunderbolt": false,
+            "miniDisplay": false,
+            "cardReader": true
+        },
+        "battery": "6 cell",
+        "weight": "2.50",
+        "OS": "Windows 8 64/bit"
+    },
+    {
+        "imgName": "Pavilion_G6.jpg",
+        "ram": "4GB DDR3",
+        "cpu": "AMD Dual/Core A4/4300M",
+        "price": "549",
+        "display": "15.6",
+        "model": "HP Pavilion G6/2351EU",
+        "video": "AMD Radeon HD 7670M",
+        "hdd": "750GB SATA",
+        "promo": false,
+        "connectivity": {
+            "LAN": "10/100 Mbit/s",
+            "wifi": "802.11 b/g/n",
+            "bluetooth": ""
+        },
+        "interfaces": {
+            "USB3": "2",
+            "USB2": "1",
+            "webcam": true,
+            "mic": true,
+            "audio": true,
+            "hdmi": true,
+            "vga": true,
+            "thunderbolt": false,
+            "miniDisplay": false,
+            "cardReader": true
+        },
+        "battery": "6 cell",
+        "weight": "2.48",
+        "OS": "Windows 8 64/bit"
+    },
+    {
+        "imgName": "IdeaPad_B590.png",
+        "ram": "4GB DDR3",
+        "cpu": "Intel Pentium 2020M",
+        "price": "499",
+        "display": "15.6",
+        "model": "Lenovo IdeaPad B590",
+        "video": "Intel HD Graphics",
+        "hdd": "500GB SATA",
+        "promo": true,
+        "connectivity": {
+            "LAN": "10/100/1000 Mbit/s",
+            "wifi": "802.11 b/g/n",
+            "bluetooth": "4.0"
+        },
+        "interfaces": {
+            "USB3": "1",
+            "USB2": "2",
+            "webcam": true,
+            "mic": false,
+            "audio": true,
+            "hdmi": true,
+            "vga": true,
+            "thunderbolt": false,
+            "miniDisplay": false,
+            "cardReader": true
+        },
+        "battery": "6 cell",
+        "weight": "2.50",
+        "OS": "Windows 8 64/bit"
+    },
+    {
+        "imgName": "EasyNote_TV44HC.jpg",
+        "ram": "8GB DDR3",
+        "cpu": "Intel Pentium B960",
+        "price": "499",
+        "display": "15.6",
+        "model": "Packard Bell TV44HC",
+        "video": "Intel HD Graphics",
+        "hdd": "750GB SATA",
+        "promo": false,
+        "connectivity": {
+            "LAN": "",
+            "wifi": "802.11 b/g/n",
+            "bluetooth": ""
+        },
+        "interfaces": {
+            "USB3": "",
+            "USB2": "3",
+            "webcam": true,
+            "mic": true,
+            "audio": true,
+            "hdmi": true,
+            "vga": true,
+            "thunderbolt": false,
+            "miniDisplay": false,
+            "cardReader": true
+        },
+        "battery": "6 cell",
+        "weight": "2.60",
+        "OS": "Windows 8 64/bit"
+    },
+    {
+        "imgName": "NP270E5V.jpg",
+        "ram": "4GB DDR3",
+        "cpu": "Intel Pentium 2117U",
+        "price": "449",
+        "display": "15.6",
+        "model": "Samsung NP270E5V K01BG",
+        "video": "Intel HD Graphics",
+        "hdd": "500GB SATA",
+        "promo": true,
+        "connectivity": {
+            "LAN": "10/100 Mbit/s",
+            "wifi": "802.11 b/g/n",
+            "bluetooth": "4.0"
+        },
+        "interfaces": {
+            "USB3": "",
+            "USB2": "3",
+            "webcam": true,
+            "mic": true,
+            "audio": true,
+            "hdmi": true,
+            "vga": true,
+            "thunderbolt": false,
+            "miniDisplay": false,
+            "cardReader": true
+        },
+        "battery": "6 cell",
+        "weight": "2.20",
+        "OS": "Windows 8 64/bit"
+    },
+    {
+        "imgName": "Satellite_C50_A.jpg",
+        "ram": "2GB DDR3",
+        "cpu": "Intel Celeron 1005M",
+        "price": "399",
+        "display": "15.6",
+        "model": "Toshiba Satellite C50/A/14J",
+        "video": "Intel HD Graphics",
+        "hdd": "500GB SATA",
+        "promo": false,
+        "connectivity": {
+            "LAN": "10/100 Mbit/s",
+            "wifi": "802.11 b/g/n",
+            "bluetooth": "4.0"
+        },
+        "interfaces": {
+            "USB3": "1",
+            "USB2": "2",
+            "webcam": true,
+            "mic": true,
+            "audio": true,
+            "hdmi": true,
+            "vga": true,
+            "thunderbolt": false,
+            "miniDisplay": false,
+            "cardReader": true
+        },
+        "battery": "6 cell",
+        "weight": "2.30",
+        "OS": "Windows 8 64/bit"
+    }
+]
